@@ -1,7 +1,7 @@
 # SpaceX Falcon 9 First Stage Landing Prediction
 
-**Author:** Anik Tahabilder
-**Department:** Computer Science, Wayne State University
+**Author:** Kelvin Hosea
+**Title:** Student in preparation for the CS with AI/DS undergraduate degree at UCD 
 **Course:** IBM Data Science Professional Certificate - Applied Data Science Capstone
 
 ---
@@ -481,10 +481,9 @@ IBM-Data-Science-Certificate/
 
 ## Contact
 
-**Anik Tahabilder**
-Department of Computer Science
-Wayne State University
+**Kelvin Hosea**
+
+
 
 ---
 
-*This project was completed as part of the IBM Data Science Professional Certificate program.*
